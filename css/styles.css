@@ -187,8 +187,7 @@ body {
 
 }
 
-.nav-list-link:hover:after,
-.nav-list-link:focus:after {
+.current::after {
     opacity: 1;
 }
 
